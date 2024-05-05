@@ -38,7 +38,7 @@ Você pode visualizar o site do projeto no seguinte link:
 
 Você pode acessar a planilha de dados do projeto no seguinte link:
 
-[Planilha de Dados](https://docs.google.com/spreadsheets/d/1eTVzf5Pfbth146bdVZ6GaE4LCtNpXAKehR5ACx2xm_4/edit?usp=sharing)
+[Planilha de Dados](https://docs.google.com/spreadsheets/d/1uAi4nQHvYy_juOXcEuHWXY-PD-1Gev4Ew1ASeUD5oIQ/edit#gid=0)
 
 ## Como Contribuir
 
